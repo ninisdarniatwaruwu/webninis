@@ -1,2 +1,2 @@
 # webninis
-web project ninis kelas tib g18
+web project ninis cantik kelas tib g18
