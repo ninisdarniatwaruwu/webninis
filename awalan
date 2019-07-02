@@ -1,0 +1,36 @@
+<html>
+<head>
+
+    <title>PERKALIAN</title>
+</head>
+<body>
+    <p><center>PERKALIAN</center></p>
+   
+        <?php 
+            
+            for($a=1; $a<=5; $a++) { ?>
+            <table border="1px" align="center">
+              
+            <?php
+            for($b=1; $b<=5; $b++) {  ?>
+               
+              
+                <td><?php echo "$b"; ?>
+                <td><?php echo "*"; ?>
+                <td><?php echo "$a"; ?>
+                <td><?php echo "="?>
+                <td><?php echo $a*$b; ?></td>
+            </tr>
+        
+        <?php
+            }
+        ?>
+        </table><br>
+        <?php
+            }
+        ?>
+
+
+</table>
+</body>
+</html>
