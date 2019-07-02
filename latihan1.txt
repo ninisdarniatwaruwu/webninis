@@ -1,0 +1,7 @@
+Pemula belajar ngoding dengan github repo
+>> HTML
+>> JS
+>> Node25
+>> JSF
+>> Script Serverside PHP
+
