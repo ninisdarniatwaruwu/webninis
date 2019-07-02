@@ -23,14 +23,12 @@
             </tr>
         
         <?php
-            }
+        }
         ?>
         </table><br>
         <?php
-            }
+        }
         ?>
-
-
 </table>
 </body>
 </html>
